@@ -1,3 +1,2 @@
-spring:
-  application:
+application:
     name: abc-user-service
